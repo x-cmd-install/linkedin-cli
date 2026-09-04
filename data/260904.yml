@@ -7,7 +7,7 @@ about:
   head: 2cfa331
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:43:27Z
+  collectedAt: 2026-09-04T20:51:56Z
 timeline:
   created: 2026-02-23
   lastCommit: 2026-09-03
@@ -81,5 +81,33 @@ total:
   openIssue: 0
   commit: 56
 ---
+path: /home/runner/.x-repo/github.com/Linked-API/linkedin-cli
+collectedAt: 2026-09-04T20:51:57Z
+loc:
+  Json:
+    code: 8994
+    comments: 0
+    blanks: 0
+    files: 3
+  TypeScript:
+    code: 4819
+    comments: 18
+    blanks: 955
+    files: 99
+  JavaScript:
+    code: 106
+    comments: 0
+    blanks: 11
+    files: 3
+  Markdown:
+    code: 0
+    comments: 653
+    blanks: 306
+    files: 2
+total:
+  code: 14093
+  comments: 712
+  blanks: 1303
+  files: 107
 ---
 
