@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T03:50:18Z
+  collectedAt: 2026-09-09T18:30:57Z
 timeline:
   created: 2026-02-23
   lastCommit: 2026-09-03
@@ -84,7 +84,7 @@ total:
   commit: 56
 ---
 path: /home/runner/.x-repo/github.com/Linked-API/linkedin-cli
-collectedAt: 2026-09-09T03:50:20Z
+collectedAt: 2026-09-09T18:30:59Z
 loc:
   Json:
     code: 8994
