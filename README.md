@@ -12,6 +12,17 @@ AI-agent-friendly CLI for controlling LinkedIn accounts and retrieving real-time
 x install linkedin-cli
 ```
 
+## Code insight
+
+Total: **13,919** lines of code across **107** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 8,994 | 0 | 0 | 3 |
+| TypeScript | 4,819 | 18 | 955 | 99 |
+| JavaScript | 106 | 0 | 11 | 3 |
+| Markdown | 0 | 653 | 306 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Linked-API/linkedin-cli>
@@ -30,20 +41,12 @@ x install linkedin-cli
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 2 | 0 | 0 | 0 | 7 |
-| 90d | 2026-06-12 | 0 | 4 | 0 | 0 | 0 | 29 |
-| 360d | 2025-09-15 | 0 | 4 | 0 | 0 | 0 | 51 |
-
-## Code size
-
-Total: **13,919** lines of code across **107** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 8,994 | 0 | 0 | 3 |
-| TypeScript | 4,819 | 18 | 955 | 99 |
-| JavaScript | 106 | 0 | 11 | 3 |
-| Markdown | 0 | 653 | 306 | 2 |
+| 30d | 2026-08-12 | 0 | 2 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-13 | 0 | 4 | 0 | 0 | 0 | 16 |
+| 90d | 2026-06-13 | 0 | 4 | 0 | 0 | 0 | 29 |
+| last180d | 2026-03-15 | 0 | 4 | 0 | 0 | 0 | 40 |
+| 360d | 2025-09-16 | 0 | 4 | 0 | 0 | 0 | 51 |
+| last720d | 2024-09-21 | 0 | 4 | 0 | 0 | 0 | 56 |
 
 ## Improve this data
 
@@ -54,4 +57,4 @@ Install metadata for linkedin-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:50:13Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:22:00Z._
