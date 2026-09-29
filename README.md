@@ -41,12 +41,12 @@ Total: **14,014** lines of code across **108** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 2 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-30 | 0 | 2 | 0 | 0 | 0 | 10 |
-| 90d | 2026-06-30 | 0 | 4 | 0 | 0 | 0 | 24 |
-| last180d | 2026-04-01 | 0 | 4 | 0 | 0 | 0 | 37 |
-| 360d | 2025-10-03 | 0 | 4 | 0 | 0 | 0 | 52 |
-| last720d | 2024-10-08 | 0 | 4 | 0 | 0 | 0 | 57 |
+| 30d | 2026-08-30 | 0 | 2 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-31 | 0 | 2 | 0 | 0 | 0 | 10 |
+| 90d | 2026-07-01 | 0 | 4 | 0 | 0 | 0 | 24 |
+| last180d | 2026-04-02 | 0 | 4 | 0 | 0 | 0 | 37 |
+| 360d | 2025-10-04 | 0 | 4 | 0 | 0 | 0 | 52 |
+| last720d | 2024-10-09 | 0 | 4 | 0 | 0 | 0 | 57 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for linkedin-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T04:28:42Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T04:57:57Z._
