@@ -31,7 +31,7 @@ Total: **14,875** lines of code across **128** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 70 · **Forks**: 6 · **Open issues**: 0 · **Contributors**: 3
+- **Stars**: 72 · **Forks**: 6 · **Open issues**: 0 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -41,12 +41,12 @@ Total: **14,875** lines of code across **128** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 3 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-21 | 0 | 5 | 0 | 0 | 0 | 11 |
-| 90d | 2026-07-22 | 0 | 5 | 0 | 0 | 0 | 18 |
-| last180d | 2026-04-23 | 0 | 7 | 0 | 0 | 0 | 42 |
-| 360d | 2025-10-25 | 0 | 7 | 0 | 0 | 0 | 60 |
-| last720d | 2024-10-30 | 0 | 7 | 0 | 0 | 0 | 67 |
+| 30d | 2026-09-21 | 0 | 3 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-22 | 0 | 5 | 0 | 0 | 0 | 11 |
+| 90d | 2026-07-23 | 0 | 5 | 0 | 0 | 0 | 18 |
+| last180d | 2026-04-24 | 0 | 7 | 0 | 0 | 0 | 42 |
+| 360d | 2025-10-26 | 0 | 7 | 0 | 0 | 0 | 60 |
+| last720d | 2024-10-31 | 0 | 7 | 0 | 0 | 0 | 67 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for linkedin-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:05:18Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T03:54:20Z._
