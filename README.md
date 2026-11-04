@@ -14,14 +14,14 @@ x install linkedin-cli
 
 ## Code insight
 
-Total: **14,875** lines of code across **128** files in the top 5 languages.
+Total: **13,506** lines of code across **129** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 8,994 | 0 | 0 | 3 |
-| TypeScript | 5,775 | 40 | 1,109 | 120 |
+| Json | 7,542 | 0 | 0 | 3 |
+| TypeScript | 5,858 | 40 | 1,114 | 121 |
 | JavaScript | 106 | 0 | 11 | 3 |
-| Markdown | 0 | 670 | 315 | 2 |
+| Markdown | 0 | 685 | 321 | 2 |
 
 ## Source
 
@@ -35,18 +35,18 @@ Total: **14,875** lines of code across **128** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 7 · **Open PRs**: 1 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 67
+- **Releases**: 0 · **Merged PRs**: 7 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 69
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 1 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-04 | 0 | 3 | 1 | 0 | 0 | 9 |
-| 90d | 2026-08-05 | 0 | 5 | 1 | 0 | 0 | 18 |
-| last180d | 2026-05-07 | 0 | 7 | 1 | 0 | 0 | 42 |
-| 360d | 2025-11-08 | 0 | 7 | 1 | 0 | 0 | 60 |
-| last720d | 2024-11-13 | 0 | 7 | 1 | 0 | 0 | 67 |
+| 30d | 2026-10-05 | 0 | 1 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-05 | 0 | 3 | 0 | 0 | 0 | 11 |
+| 90d | 2026-08-06 | 0 | 5 | 0 | 0 | 0 | 20 |
+| last180d | 2026-05-08 | 0 | 7 | 0 | 0 | 0 | 44 |
+| 360d | 2025-11-09 | 0 | 7 | 0 | 0 | 0 | 62 |
+| last720d | 2024-11-14 | 0 | 7 | 0 | 0 | 0 | 69 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for linkedin-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T05:53:40Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T05:29:11Z._
