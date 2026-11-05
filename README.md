@@ -14,14 +14,14 @@ x install linkedin-cli
 
 ## Code insight
 
-Total: **13,506** lines of code across **129** files in the top 5 languages.
+Total: **13,605** lines of code across **130** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 7,542 | 0 | 0 | 3 |
-| TypeScript | 5,858 | 40 | 1,114 | 121 |
+| TypeScript | 5,957 | 49 | 1,122 | 122 |
 | JavaScript | 106 | 0 | 11 | 3 |
-| Markdown | 0 | 685 | 321 | 2 |
+| Markdown | 0 | 692 | 323 | 2 |
 
 ## Source
 
@@ -35,18 +35,18 @@ Total: **13,506** lines of code across **129** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 7 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 69
+- **Releases**: 0 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 73
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 1 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-05 | 0 | 3 | 0 | 0 | 0 | 11 |
-| 90d | 2026-08-06 | 0 | 5 | 0 | 0 | 0 | 20 |
-| last180d | 2026-05-08 | 0 | 7 | 0 | 0 | 0 | 44 |
-| 360d | 2025-11-09 | 0 | 7 | 0 | 0 | 0 | 62 |
-| last720d | 2024-11-14 | 0 | 7 | 0 | 0 | 0 | 69 |
+| 30d | 2026-10-06 | 0 | 3 | 0 | 0 | 0 | 6 |
+| last60d | 2026-09-06 | 0 | 5 | 0 | 0 | 0 | 13 |
+| 90d | 2026-08-07 | 0 | 7 | 0 | 0 | 0 | 22 |
+| last180d | 2026-05-09 | 0 | 9 | 0 | 0 | 0 | 46 |
+| 360d | 2025-11-10 | 0 | 9 | 0 | 0 | 0 | 64 |
+| last720d | 2024-11-15 | 0 | 9 | 0 | 0 | 0 | 73 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for linkedin-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T05:29:11Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T05:48:52Z._
