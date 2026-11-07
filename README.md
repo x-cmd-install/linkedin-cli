@@ -14,12 +14,12 @@ x install linkedin-cli
 
 ## Code insight
 
-Total: **13,605** lines of code across **130** files in the top 5 languages.
+Total: **14,289** lines of code across **146** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 7,542 | 0 | 0 | 3 |
-| TypeScript | 5,957 | 49 | 1,122 | 122 |
+| TypeScript | 6,641 | 49 | 1,169 | 138 |
 | JavaScript | 106 | 0 | 11 | 3 |
 | Markdown | 0 | 692 | 323 | 2 |
 
@@ -35,18 +35,18 @@ Total: **13,605** lines of code across **130** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 73
+- **Releases**: 0 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 74
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 3 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-07 | 0 | 5 | 0 | 0 | 0 | 13 |
-| 90d | 2026-08-08 | 0 | 7 | 0 | 0 | 0 | 22 |
-| last180d | 2026-05-10 | 0 | 9 | 0 | 0 | 0 | 46 |
-| 360d | 2025-11-11 | 0 | 9 | 0 | 0 | 0 | 64 |
-| last720d | 2024-11-16 | 0 | 9 | 0 | 0 | 0 | 73 |
+| 30d | 2026-10-08 | 0 | 3 | 0 | 0 | 0 | 7 |
+| last60d | 2026-09-08 | 0 | 5 | 0 | 0 | 0 | 14 |
+| 90d | 2026-08-09 | 0 | 7 | 0 | 0 | 0 | 23 |
+| last180d | 2026-05-11 | 0 | 9 | 0 | 0 | 0 | 47 |
+| 360d | 2025-11-12 | 0 | 9 | 0 | 0 | 0 | 65 |
+| last720d | 2024-11-17 | 0 | 9 | 0 | 0 | 0 | 74 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for linkedin-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T05:45:18Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:15:44Z._
